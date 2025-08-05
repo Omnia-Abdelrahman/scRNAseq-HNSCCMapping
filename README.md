@@ -1,6 +1,6 @@
 # HNSCC Single-Cell Atlas: Decoding Tumor Microenvironments One Cell at a Time
 
-Welcome to the **HNSCC Single-Cell Mapping Project**, where we dive deep into the cellular world of **head and neck squamous cell carcinoma (HNSCC)**. This project uses **single-cell RNA sequencing (scRNA-seq)** data to understand what makes tumor and non-tumor cells different—and what we might do with that knowledge.
+Welcome to the **HNSCC Single-Cell Mapping Project** project, which uses **single-cell RNA sequencing (scRNA-seq)** data to dive deep into the cellular world of **head and neck squamous cell carcinoma (HNSCC)** and to understand what makes tumor and non-tumor cells different.
 
 This isn’t just a casual look at data. It's a step-by-step journey toward identifying targets that could eventually help develop better treatment/preventative decisions. Everything here is done openly and simply so others can learn, build, or collaborate.
 
