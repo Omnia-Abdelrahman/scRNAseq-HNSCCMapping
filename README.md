@@ -111,6 +111,8 @@ conda install -c bioconda scanpy
 ## Example Outputs
 
 - UMAPs colored by cancer status
+- <img width="683" height="426" alt="image" src="https://github.com/user-attachments/assets/2b431cd8-9576-43a2-9e71-457517eb952f" />
+
 - Violin plots showing marker expression
 - Lists of genes differentially expressed in cancer
 - Clean `.h5ad` file to reuse later
