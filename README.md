@@ -34,11 +34,7 @@ You can find the dataset here: [**GEO Accession GSE103322**](https://www.ncbi.nl
 
 ```
 HNSCC-scRNAseq-Mapping/
-├── [scRNAseq-HNSCCMapping.py](scRNAseq-HNSCCMapping.py)        # The main code for running all steps (so far, from Phase 1)
-├── data/                          # Contains input files (ex. matrices)
-├── figures/                       # For saving plots like UMAPs and violins
-├── outputs/                       # Processed AnnData (.h5ad) and DE results
-└── README.md                      # You’re reading it
+├── [scRNAseq-HNSCCMapping.py](scRNAseq-HNSCCMapping.py)       # The main code for running all steps
 ```
 
 ---
