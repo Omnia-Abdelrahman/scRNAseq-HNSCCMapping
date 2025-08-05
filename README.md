@@ -110,20 +110,21 @@ conda install -c bioconda scanpy
 
 ## Strong cancer-specific expression:
 
-## KRT5, KRT17, TP63
+# KRT5, KRT17, TP63
 
 Classic basal epithelial markers often upregulated in squamous cell carcinomas.
 Likely marking tumor epithelial cells
 Known roles in cell structure, stemness, and proliferation
 
-## PERP, SPINT2, IFI27
+# PERP, SPINT2, IFI27
 PERP: A p53 target gene, linked to apoptosis
 SPINT2: Involved in protease inhibition, tumor suppression in some cancers
 IFI27: Interferon response gene, possible immune relevance
 
-## KRT6A, SDC1, FXYD3
+# KRT6A, SDC1, FXYD3
 These are related to cell adhesion and epithelial phenotype
 SDC1 (Syndecan-1): Membrane-bound proteoglycan, potentially targetable
+
 <img width="527" height="246" alt="image" src="https://github.com/user-attachments/assets/5b67b768-12fe-4621-aad5-c475098494e3" />
 
 ---
