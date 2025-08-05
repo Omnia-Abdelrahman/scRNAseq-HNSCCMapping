@@ -113,10 +113,6 @@ conda install -c bioconda scanpy
 - UMAPs colored by cancer status
 - <img width="683" height="426" alt="image" src="https://github.com/user-attachments/assets/2b431cd8-9576-43a2-9e71-457517eb952f" />
 
-- Violin plots showing marker expression
-- Lists of genes differentially expressed in cancer
-- Clean `.h5ad` file to reuse later
-
 ---
 
 ## How to Follow Along
@@ -143,13 +139,3 @@ If this helps your work or learning, please cite:
 ```
 Puram SV, Tirosh I, Parikh AS, et al. Single-Cell Transcriptomic Analysis of Primary and Metastatic Tumor Ecosystems in Head and Neck Cancer. Cell. 2017.
 ```
-
----
-
-## Let’s Build Together
-
-If you’re into science, coding, or bioinformatics—and especially if you're learning, you’re welcome here.
-
-Questions? Ideas? Feedback? Always appreciated.
-
-
