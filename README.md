@@ -32,10 +32,8 @@ You can find the dataset here: [**GEO Accession GSE103322**](https://www.ncbi.nl
 
 ## Project Folder Structure
 
-```
-HNSCC-scRNAseq-Mapping/
-├── [scRNAseq-HNSCCMapping.py](scRNAseq-HNSCCMapping.py)       # The main code for running all steps
-```
+- [`scRNAseq-HNSCCMapping.py`](scRNAseq-HNSCCMapping.py): The main code for running all steps
+
 
 ---
 
