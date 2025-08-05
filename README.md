@@ -104,8 +104,13 @@ conda install -c bioconda scanpy
 
 ## Example Outputs
 
-- UMAPs colored by cancer status
-- <img width="683" height="426" alt="image" src="https://github.com/user-attachments/assets/2b431cd8-9576-43a2-9e71-457517eb952f" />
+UMAPs colored by cancer status
+<img width="683" height="426" alt="image" src="https://github.com/user-attachments/assets/2b431cd8-9576-43a2-9e71-457517eb952f" />
+
+<img width="535" height="429" alt="image" src="https://github.com/user-attachments/assets/60ec45ad-c937-43eb-ab6e-f32363183f3f" />
+
+<img width="490" height="357" alt="image" src="https://github.com/user-attachments/assets/c177473b-b490-4195-a674-b68a6e6d12a1" />
+
 
 
 ## Strong cancer-specific expression:
