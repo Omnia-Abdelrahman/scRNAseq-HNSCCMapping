@@ -137,22 +137,30 @@ SDC1 (Syndecan-1): Membrane-bound proteoglycan, potentially targetable
 
 EPCAM resources:
 UniProt: https://www.uniprot.org/uniprot/?query=EPCAM+AND+organism:9606
+
 HPA: https://www.proteinatlas.org/search/EPCAM
+
 Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=EPCAM+AND+keyword:KW-1003
 
 KRT17 resources:
 UniProt: https://www.uniprot.org/uniprot/?query=KRT17+AND+organism:9606
+
 HPA: https://www.proteinatlas.org/search/KRT17
+
 Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=KRT17+AND+keyword:KW-1003
 
 AKR1C1 resources:
 UniProt: https://www.uniprot.org/uniprot/?query=AKR1C1+AND+organism:9606
+
 HPA: https://www.proteinatlas.org/search/AKR1C1
+
 Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=AKR1C1+AND+keyword:KW-1003
 
 ALDH3A1 resources:
 UniProt: https://www.uniprot.org/uniprot/?query=ALDH3A1+AND+organism:9606
+
 HPA: https://www.proteinatlas.org/search/ALDH3A1
+
 Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=ALDH3A1+AND+keyword:KW-1003
 
 
