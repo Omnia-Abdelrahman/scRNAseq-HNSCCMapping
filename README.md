@@ -48,13 +48,14 @@ You can find the dataset here: [**GEO Accession GSE103322**](https://www.ncbi.nl
 - Log-transform and reduce data with UMAP
 - Plot gene expression (e.g. EPCAM, SPP1) across cells
 
-### Phase 2: Find Key Genes
+### Phase 2: Find Key Genes (HAPPENING THIS WEEK)
 
 - Run statistical tests to find genes that differ between cancer and non-cancer cells
 - Plot top genes using dot plots and heatmaps
 - Create gene lists for further research
 
 ### Phase 3: Link to Biology
+
 
 - Search for genes related to immunity or stemness
 - Use public databases to learn more about those genes
@@ -112,8 +113,7 @@ UMAPs colored by cancer status
 <img width="490" height="357" alt="image" src="https://github.com/user-attachments/assets/c177473b-b490-4195-a674-b68a6e6d12a1" />
 
 
-
-## Strong cancer-specific expression:
+## Strong cancer-specific expression genes found:
 
 # KRT5, KRT17, TP63
 
@@ -132,11 +132,35 @@ SDC1 (Syndecan-1): Membrane-bound proteoglycan, potentially targetable
 
 <img width="527" height="246" alt="image" src="https://github.com/user-attachments/assets/5b67b768-12fe-4621-aad5-c475098494e3" />
 
+
+## Happening Now (Checking which gene can be Surface-expressed, Tumor-specific, Immunogenic, Protein-coding!)
+
+EPCAM resources:
+UniProt: https://www.uniprot.org/uniprot/?query=EPCAM+AND+organism:9606
+HPA: https://www.proteinatlas.org/search/EPCAM
+Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=EPCAM+AND+keyword:KW-1003
+
+KRT17 resources:
+UniProt: https://www.uniprot.org/uniprot/?query=KRT17+AND+organism:9606
+HPA: https://www.proteinatlas.org/search/KRT17
+Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=KRT17+AND+keyword:KW-1003
+
+AKR1C1 resources:
+UniProt: https://www.uniprot.org/uniprot/?query=AKR1C1+AND+organism:9606
+HPA: https://www.proteinatlas.org/search/AKR1C1
+Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=AKR1C1+AND+keyword:KW-1003
+
+ALDH3A1 resources:
+UniProt: https://www.uniprot.org/uniprot/?query=ALDH3A1+AND+organism:9606
+HPA: https://www.proteinatlas.org/search/ALDH3A1
+Cell Surface Atlas (via UniProt): https://www.uniprot.org/uniprot/?query=ALDH3A1+AND+keyword:KW-1003
+
+
 ---
 
 ## How to Follow Along
 
-This is an open, evolving project. New results and plots will be shared often. You can:
+This is an open, self-initiated project. New results and plots will be shared often. You can:
 
 - Watch the repo for updates
 - Fork and try it yourself
